@@ -1,0 +1,22 @@
+{
+  "name":"Testingtesting123",
+  "description":"Europe for esp32",
+  "keywords":"esp32",
+  "authors":
+  {
+    "name": "softhack007",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/softhack007/Testingtesting123.git"
+  },
+  "version": "0.0.1",
+  "license": "EUPL-1.2",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "libCompatMode": 2
+  }  
+}
